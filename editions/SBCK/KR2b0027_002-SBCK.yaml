@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2b0027/SBCK/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2b0027_SBCK_002-1a}
+metadata:
+  title: 編年通載
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-09-12 00:40:56.264405'
+  source:
+    repository: kanripo
+    path: KR2b0027/KR2b0027_002.txt
+hash: sha256:f1e25b9ebddf4fd782c9a6ab4c581b4f679dd3c2a92c0c62ada353f79ee08a07

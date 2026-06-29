@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2b0027/krp/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2b0027_SBCK_004-1a}
+metadata:
+  title: 編年通載
+  edition:
+    short: krp
+  base_edition: SBCK
+  date: '2015-09-12 00:40:56.264405'
+  source:
+    repository: kanripo
+    path: KR2b0027/KR2b0027_004.txt
+hash: sha256:45b329fe28268525cd922d21a993ffcecaa17043b4da30a877566e2240143f39
